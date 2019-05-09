@@ -1,4 +1,3 @@
-# pylint: disable=no-member
 ''' A script that reads text from a file and uploads to Amazon Polly
     Amazon Polly allows text to be turned into audio, an mp3 file
     is created and uploaded to an s3 buckets
